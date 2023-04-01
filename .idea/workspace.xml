@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc4dde84-57c0-4c8b-857d-5778f9a08251" name="Changes" comment="Made changes to files">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/fallingDistance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/celsiusTable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <recent name="C:\Users\Joshua\IdeaProjects\week02\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.HelpKt">
     <configuration name="HelpKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelpKt" />
       <module name="week02" />
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680106823524</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Made changes to files">
+      <created>1680286807941</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680286807941</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
